@@ -7,6 +7,7 @@ namespace ADS_MiniProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("I like pasta!");
         }
     }
 }
